@@ -1,0 +1,7 @@
+name: "test-agent"
+description: "A sandbox agent for experimenting with behavior."
+instructions: |
+  You are a test agent used for validating custom agent behavior.
+  Respond clearly and concisely.
+tools:
+  - editor
